@@ -11,7 +11,7 @@ $ git clone https://github.com/whoami-anoint/webredirection
 $ cd webredirection
 ```
 
-### Usuage 
+### Usage 
 * make-payloads.sh - replace www.whitelisteddomain.tld with a specific whitelisted domain in your test case.
 ```
 $ ./make-payloads.sh www.whitelisteddomain.pw
